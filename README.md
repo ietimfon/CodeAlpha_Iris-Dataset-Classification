@@ -67,7 +67,7 @@ To run this project, you'll need:
 |Sepal Length (cm)|0.108 (10.8%)|Secondary influence - contributes modestly to classification|
 |Sepal Width (cm)|0.030 (3.0%)|Least important - minimal impact on species determination|
 
-### Interpretation:
+### Interpretation
 1. Petal Measurements Dominate: Together, petal length and width account for 86.2% of the classification importance, suggesting these are the primary distinguishing characteristics between iris species.
 2. Sepal Characteristics Less Informative: The sepal measurements (particularly sepal width) contribute relatively little to the model's decision-making process.
 3. Biological Significance: This aligns with botanical knowledge - iris species are typically distinguished more by petal characteristics than sepal features.
