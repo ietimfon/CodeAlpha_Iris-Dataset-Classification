@@ -1,5 +1,14 @@
 # CodeAlpha_Iris-Dataset-Classification
 In this project, I trained a machine learning model that can learn from the measurements of the iris species and classify them.
+___
+
+## Table of Contents
+- [Overview](#overview)
+- [Dataset](#dataset)
+- [Requirements](#requirements)
+- [Workflow](#workflow)
+- [Key Insights](#key-insights)
+- [Interpretation](#interpretation)
 
 ### Overview
 This project demonstrates a machine learning workflow for classifying iris flowers based on their sepal and petal measurements. The project includes data exploration, preprocessing, model training with a Random Forest classifier, and making predictions on new data.
